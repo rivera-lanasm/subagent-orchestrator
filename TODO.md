@@ -2,10 +2,11 @@
 
 ## Phase 1: Foundation
 
-### 1.1 Initialize git repo
-- [ ] `git init`
-- [ ] Create `.gitignore`
-- [ ] Initial commit
+### 1.1 Initialize git repo ✓
+- [x] `git init`
+- [x] Create `.gitignore`
+- [x] Initial commit
+- [x] Push to GitHub remote
 
 *Testing: None needed*
 
