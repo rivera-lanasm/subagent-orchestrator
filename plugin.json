@@ -1,0 +1,7 @@
+{
+  "name": "subagent-orchestrator",
+  "version": "0.1.0",
+  "description": "Orchestrate parallel subagents on isolated git worktrees",
+  "author": "",
+  "repository": ""
+}
